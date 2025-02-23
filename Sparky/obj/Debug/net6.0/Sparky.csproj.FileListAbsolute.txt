@@ -1,0 +1,11 @@
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\bin\Debug\net6.0\Sparky.deps.json
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\bin\Debug\net6.0\Sparky.dll
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\bin\Debug\net6.0\Sparky.pdb
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfoInputs.cache
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfo.cs
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.CoreCompileInputs.cache
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.dll
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\refint\Sparky.dll
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\Sparky.pdb
+E:\Udemy Courses\Complete Guide to Unit Testing in .NET Core (NUnit & XUnit)\Sparky\Sparky\obj\Debug\net6.0\ref\Sparky.dll
