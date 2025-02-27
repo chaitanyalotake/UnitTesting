@@ -21,7 +21,7 @@ namespace SparkyNUnitTest
             ////arrange
             //var customer = new Customer();
             //Act
-            string fullName = customer.GrretAndCombineNames("chaitanya", "lotake");
+            string fullName = customer.GreetAndCombineNames("chaitanya", "lotake");
             //assert
             Assert.That(fullName, Is.EqualTo("Hello, chaitanya lotake"));
             Assert.That(fullName, Does.Contain("Chaitanya").IgnoreCase);
